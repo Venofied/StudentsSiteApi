@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Data Source=DESKTOP-6V1IJQO\\MSSQLSERVER01;Initial Catalog=webtask1;Persist Security Info=True;MultipleActiveResultSets=True;User ID=sysadmin2; Password=i09gh37r5;Pooling=true;Max Pool Size=100;Encrypt=False;TrustServerCertificate=Yes;"
+  }
+}
